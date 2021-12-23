@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-3720AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-4555AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/HTML-1212AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Javascript-3421AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <!--
 **ming9z/ming9z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
