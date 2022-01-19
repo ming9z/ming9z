@@ -1,4 +1,4 @@
-### Computer Software
+### Develop
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20ming9z%20&height=300&fontSize=100&textBg=true)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
